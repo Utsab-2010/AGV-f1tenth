@@ -1,14 +1,5 @@
 # Pure Pursuit Controller (Group-1)
-
-### Contributers
-- Aryaan Sinha
-- Harsh Vibhor Sharma
-- Utsab Karan
-
-## Simulation Environement Setup
-- It is important to setup the simulation env. Use the following links.
-- Link 1
-- doc link 
+- Documetation(https://spiky-cricket-14b.notion.site/F1tenth-Controls-Pure-Pursuit-f8112d5eaba54e1cb83806b79277bf27)
 
 ## Available Controllers
 - **Pure Pursuit V1**
